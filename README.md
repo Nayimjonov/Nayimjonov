@@ -1,8 +1,6 @@
 ## Hi there 👋
 <h1>Samandar Nayimjonov</h1>
 
-
-
 <ul>
     <li>My Linkinedin accaunt: <a link="https://www.linkedin.com/in/samandar-nayimjonov-594407329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Samandar</a></li>
 </ul>
