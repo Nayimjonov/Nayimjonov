@@ -19,7 +19,7 @@ My</a></br>
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://images6.alphacoders.com/135/1350469.png" width="500" height="320" />
+<img align="right" alt="GIF" src="386745.jpg" width="500" height="320" />
 
 
 
