@@ -4,7 +4,11 @@
 
 ## Hi there 👋 I'm a Python developer
 
-<a href="https://instagram.com/1samandar_old" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1samandar_old" height="30" width="40" /></a>
+
+
+<a href="https://discord.com/channels/samandarnayimjonov">
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
 <a href="https://discord.com/channels/samandarnayimjonov">
   <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
