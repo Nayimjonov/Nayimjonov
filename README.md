@@ -12,9 +12,8 @@
 
 
 
-<a href="https://facebook.com/1samandar_old">
-  <img align="left" alt="Facebook" width="22px" src="![social-network_15714742](https://github.com/user-attachments/assets/f0418fb5-617d-4115-9046-c2550d40b998)
-" />
+<a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL">
+  <img align="left" alt="Facebook" width="22px" src=" "/>
 </a>
 
 
