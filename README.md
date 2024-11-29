@@ -6,7 +6,7 @@
 
 
 
-<a href="https://instagram.com/channels/1samandar_old">
+<a href="https://instagram.com/1samandar_old">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
