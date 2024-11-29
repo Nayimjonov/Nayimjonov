@@ -14,7 +14,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
 </a>
 
-
 <a href="https://discord.com/channels/samandarnayimjonov">
   <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
@@ -26,8 +25,10 @@
 
 
 ## Telegram
-<a href="https://t.me/SamandarNayimjonov"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
-My</a></br>
+<a href="https://t.me/SamandarNayimjonov">
+<img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
+</a>
+</br>
 
 ## Technology stack
 
