@@ -2,8 +2,12 @@
   <img src="name.svg"/>
 </h1>
 
-## Hi there 👋 I'm a Python developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+
+## Hi there 👋 I'm a Python developer
 
 
 <a href="https://instagram.com/1samandar_old">
