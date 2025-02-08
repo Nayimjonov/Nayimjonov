@@ -29,7 +29,7 @@
 
 
 ## Telegram
-<a href="https://t.me/SamandarNayimjonov">
+<a href="https://t.me/Nayimjonovv">
 <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
 </a>
 </br>
