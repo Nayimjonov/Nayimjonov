@@ -7,7 +7,7 @@
 </p>
 
 
-## Hi there 👋 I'm a Python developer
+## Assalamu Aleykum 👋 I'm a Python developer
 
 
 <a href="https://instagram.com/1samandar_old">
