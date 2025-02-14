@@ -61,14 +61,8 @@
 
 ## Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samandar005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Samandar005"/>
-  </div>
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar005&theme=blue-green" alt="Samandar005" />
-  </div>
-</div>
+![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samandar005&show_icons=true&theme=transparent)
+
 
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Samandar005" /> </p>)
