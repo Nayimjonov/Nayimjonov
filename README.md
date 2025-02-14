@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samandar005)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samandar005)](https://github.com/Samandar005/github-profile-trophy)
 
 ## Assalamu Aleykum 👋 I'm a Python developer
 
