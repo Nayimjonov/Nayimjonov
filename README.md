@@ -39,8 +39,6 @@
 
 <img align="right" alt="GIF" src="386745.jpg" width="500" height="320" />
 
-
-
 **Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
