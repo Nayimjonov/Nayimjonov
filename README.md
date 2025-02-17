@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
+![](https://github-profile-trophy.vercel.app/?username=Samandar005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Assalamu Aleykum 👋 I'm a Python developer
 
