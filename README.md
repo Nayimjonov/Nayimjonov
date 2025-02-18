@@ -32,8 +32,7 @@
   </a>
 </p>
 
-
-<h1 align="center">Technology stack</h1>
+## Technology stack
 
 <img align="right" alt="GIF" src="386745.jpg" width="500" height="320" />
 
