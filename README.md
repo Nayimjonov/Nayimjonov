@@ -44,6 +44,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest Framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 **Front-End**
@@ -65,12 +66,8 @@ Databases
 
 ## Stats
 
-![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samandar005&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samandar005&show_icons=true&theme=transparent" width="50%" style="min-height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" style="min-height: 200px;"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Samandar005" /> </p>
-
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
