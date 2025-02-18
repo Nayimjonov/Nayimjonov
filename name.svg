@@ -1,62 +1,112 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Samandar Nayimjonov</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-      background: #000;
-      font-family: 'Arial', sans-serif;
-    }
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes spaceGlow {
+          0% { color: #ffffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #0000ff, 0 0 30px #00ffff; }
+          50% { color: #e0e0ff; text-shadow: 0 0 20px #0000ff, 0 0 30px #00ffff, 0 0 40px #0000ff, 0 0 50px #00ffff; }
+          100% { color: #ffffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #0000ff, 0 0 30px #00ffff; }
+        }
 
-    .container {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      color: #fff;
-      font-size: 3em;
-      font-weight: bold;
-      letter-spacing: 0.1em;
-      text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.5), 0 0 30px rgba(255, 255, 255, 0.5);
-      animation: glow 1.5s ease-in-out infinite alternate;
-    }
+        @keyframes meteorShower {
+          0% { transform: translate(-100%, -100%) rotate(45deg); opacity: 0; }
+          50% { opacity: 1; }
+          100% { transform: translate(100%, 100%) rotate(45deg); opacity: 0; }
+        }
 
-    @keyframes glow {
-      0% {
-        text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.5), 0 0 30px rgba(255, 255, 255, 0.5);
-      }
-      100% {
-        text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8), 0 0 40px rgba(255, 255, 255, 0.8);
-      }
-    }
+        @keyframes starTwinkle {
+          0%, 100% { opacity: 1; transform: scale(1); }
+          50% { opacity: 0.3; transform: scale(0.8); }
+        }
 
-    .stars {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: url('https://www.transparenttextures.com/patterns/stardust.png') repeat;
-      pointer-events: none;
-      animation: moveStars 100s linear infinite;
-    }
+        @keyframes floatInSpace {
+          0% { transform: translateY(0) translateX(0); }
+          25% { transform: translateY(-15px) translateX(5px); }
+          50% { transform: translateY(0) translateX(10px); }
+          75% { transform: translateY(15px) translateX(5px); }
+          100% { transform: translateY(0) translateX(0); }
+        }
 
-    @keyframes moveStars {
-      0% { background-position: 0 0; }
-      100% { background-position: 100% 100%; }
-    }
-  </style>
-</head>
-<body>
-  <div class="stars"></div>
-  <div class="container">
-    Samandar Nayimjonov
-  </div>
-</body>
-</html>
+        .container {
+          background: linear-gradient(45deg, #000033, #000066);
+          padding: 20px;
+          border-radius: 10px;
+          position: relative;
+          overflow: hidden;
+          height: 180px;
+        }
+
+        .star {
+          position: absolute;
+          color: white;
+          font-size: 1.2em;
+          animation: starTwinkle 3s ease-in-out infinite;
+        }
+
+        .meteor {
+          position: absolute;
+          width: 2px;
+          height: 2px;
+          background: linear-gradient(45deg, #ffffff, transparent);
+          animation: meteorShower 3s linear infinite;
+        }
+
+        h1 {
+          font-family: 'Space Grotesk', 'Inter', sans-serif;
+          font-size: 4em;
+          font-weight: 700;
+          text-align: center;
+          margin: 0;
+          padding: 20px;
+          animation: spaceGlow 2s ease-in-out infinite, floatInSpace 6s ease-in-out infinite;
+          position: relative;
+          z-index: 1;
+        }
+
+        .orbit {
+          position: absolute;
+          border: 2px solid rgba(255, 255, 255, 0.1);
+          border-radius: 50%;
+          animation: floatInSpace 8s ease-in-out infinite;
+        }
+
+        .star:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
+        .star:nth-child(2) { top: 30%; left: 20%; animation-delay: 0.3s; }
+        .star:nth-child(3) { top: 40%; left: 30%; animation-delay: 0.6s; }
+        .star:nth-child(4) { top: 25%; left: 40%; animation-delay: 0.9s; }
+        .star:nth-child(5) { top: 35%; left: 50%; animation-delay: 1.2s; }
+        .star:nth-child(6) { top: 45%; left: 60%; animation-delay: 1.5s; }
+        .star:nth-child(7) { top: 30%; left: 70%; animation-delay: 1.8s; }
+        .star:nth-child(8) { top: 40%; left: 80%; animation-delay: 2.1s; }
+
+        .meteor:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
+        .meteor:nth-child(2) { top: 40%; left: 20%; animation-delay: 1s; }
+        .meteor:nth-child(3) { top: 60%; left: 30%; animation-delay: 2s; }
+
+        .constellation {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          opacity: 0.3;
+          background-image: radial-gradient(white 1px, transparent 1px);
+          background-size: 50px 50px;
+        }
+      </style>
+      <div class="container">
+        <div class="constellation"></div>
+        <div class="star">★</div>
+        <div class="star">✦</div>
+        <div class="star">✧</div>
+        <div class="star">⋆</div>
+        <div class="star">✦</div>
+        <div class="star">✧</div>
+        <div class="star">★</div>
+        <div class="star">⋆</div>
+        <div class="meteor"></div>
+        <div class="meteor"></div>
+        <div class="meteor"></div>
+        <h1>Samandar Nayimjonov</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
