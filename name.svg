@@ -8,21 +8,20 @@
           background: #000;
         }
 
+        /* Name text: markazda nafis pulsatsiya va yengil float animatsiyasi */
         @keyframes cosmicPulse {
-          0% { color: #ffffff; text-shadow: 0 0 10px #00ffff, 0 0 15px #0077ff, 0 0 25px #00ffff; }
-          50% { color: #e0e0ff; text-shadow: 0 0 15px #0077ff, 0 0 25px #00ffff, 0 0 35px #0077ff, 0 0 45px #00ffff; }
-          100% { color: #ffffff; text-shadow: 0 0 10px #00ffff, 0 0 15px #0077ff, 0 0 25px #00ffff; }
-        }
-
-        @keyframes meteorBlast {
-          0% { transform: translate(-100%, -100%) rotate(45deg) scale(0); opacity: 0; }
-          50% { opacity: 1; transform: translate(0%, 0%) rotate(45deg) scale(1); }
-          100% { transform: translate(100%, 100%) rotate(45deg) scale(0); opacity: 0; }
-        }
-
-        @keyframes starPulse {
-          0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
-          50% { opacity: 0.5; transform: scale(0.9) rotate(180deg); }
+          0% {
+            color: #ffffff;
+            text-shadow: 0 0 10px #00ffff, 0 0 15px #0077ff, 0 0 25px #00ffff;
+          }
+          50% {
+            color: #e0e0ff;
+            text-shadow: 0 0 15px #0077ff, 0 0 25px #00ffff, 0 0 35px #0077ff, 0 0 45px #00ffff;
+          }
+          100% {
+            color: #ffffff;
+            text-shadow: 0 0 10px #00ffff, 0 0 15px #0077ff, 0 0 25px #00ffff;
+          }
         }
 
         @keyframes cosmicFloat {
@@ -31,6 +30,44 @@
           50% { transform: translateY(0) translateX(6px) scale(1); }
           75% { transform: translateY(8px) translateX(3px) scale(0.95); }
           100% { transform: translateY(0) translateX(0) scale(1); }
+        }
+
+        /* Qora tuynuk aurasini saytlar tasviriga yaqin rang sxemasi:
+           pushti, tuq ko‘k va oq ranglarning uyg‘unlashuvi */
+        @keyframes rotateGlow {
+          0% {
+            box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
+          }
+          50% {
+            box-shadow: 0 0 40px 40px rgba(255, 255, 0, 0.6);
+          }
+          100% {
+            box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
+          }
+        }
+
+        @keyframes blackHoleAnimation {
+          0% { transform: translate(-50%, -50%) scale(1); }
+          50% { transform: translate(-50%, -50%) scale(1.15); }
+          100% { transform: translate(-50%, -50%) scale(1); }
+        }
+
+        /* Yulduzlar: pulsatsiya va drift */
+        @keyframes starPulse {
+          0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
+          50% { opacity: 0.5; transform: scale(0.9) rotate(180deg); }
+        }
+        @keyframes starDrift {
+          0% { transform: translate(0,0); }
+          50% { transform: translate(3px, -3px); }
+          100% { transform: translate(0,0); }
+        }
+
+        /* Meteorlar: silliq harakat */
+        @keyframes meteorBlast {
+          0% { transform: translate(-100%, -100%) rotate(45deg) scale(0); opacity: 0; }
+          50% { transform: translate(0, 0) rotate(45deg) scale(1); opacity: 1; }
+          100% { transform: translate(100%, 100%) rotate(45deg) scale(0); opacity: 0; }
         }
 
         .cosmos-container {
@@ -59,17 +96,11 @@
           box-shadow: 0 0 70px rgba(0, 0, 0, 1);
         }
 
-        @keyframes blackHoleAnimation {
-          0% { transform: translate(-50%, -50%) scale(1); }
-          50% { transform: translate(-50%, -50%) scale(1.15); }
-          100% { transform: translate(-50%, -50%) scale(1); }
-        }
-
         .star {
           position: absolute;
           color: white;
           font-size: 1.4em;
-          animation: starPulse 3s ease-in-out infinite;
+          animation: starPulse 3s ease-in-out infinite, starDrift 5s ease-in-out infinite;
           z-index: 1;
         }
 
@@ -94,9 +125,9 @@
           position: relative;
           z-index: 3;
           letter-spacing: 1px;
-          white-space: nowrap; /* Matnni bir qatorda saqlash uchun */
+          white-space: nowrap;
           overflow: hidden;
-          text-overflow: ellipsis; /* Uzun matn uchun punktirlangan chiziq */
+          text-overflow: ellipsis;
         }
 
         .cosmic-dust {
@@ -123,54 +154,36 @@
           animation: cosmicFloat 10s ease-in-out infinite;
         }
 
-        @keyframes rotateGlow {
-          0% {
-            box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
-          }
-          50% {
-            box-shadow: 0 0 40px 40px rgba(255, 255, 0, 0.6);
-          }
-          100% {
-            box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
-          }
-        }
-
         @media screen and (max-width: 1200px) {
-          h1 {
-            font-size: 3.5em;
-          }
+          h1 { font-size: 3.5em; }
         }
-
         @media screen and (max-width: 900px) {
-          h1 {
-            font-size: 3em;
-          }
+          h1 { font-size: 3em; }
         }
-
         @media screen and (max-width: 600px) {
-          h1 {
-            font-size: 2.5em;
-          }
+          h1 { font-size: 2.5em; }
         }
-
       </style>
       <div class="cosmos-container">
         <div class="cosmic-dust"></div>
         <div class="constellation"></div>
         <div class="black-hole"></div>
-        <div class="star">★</div>
-        <div class="star">✦</div>
-        <div class="star">✧</div>
-        <div class="star">⋆</div>
-        <div class="star">✦</div>
-        <div class="star">✧</div>
-        <div class="star">★</div>
-        <div class="star">⋆</div>
-        <div class="meteor"></div>
-        <div class="meteor"></div>
-        <div class="meteor"></div>
-        <div class="meteor"></div>
-        <div class="meteor"></div>
+        <!-- Joylashuvini aniqlashtirish uchun yulduzlar -->
+        <div class="star" style="top: 10%; left: 15%;">★</div>
+        <div class="star" style="top: 25%; left: 70%;">✦</div>
+        <div class="star" style="top: 50%; left: 80%;">✧</div>
+        <div class="star" style="top: 70%; left: 30%;">⋆</div>
+        <div class="star" style="top: 20%; left: 40%;">✦</div>
+        <div class="star" style="top: 60%; left: 10%;">✧</div>
+        <div class="star" style="top: 15%; left: 85%;">★</div>
+        <div class="star" style="top: 80%; left: 55%;">⋆</div>
+        <!-- Joylashuvini aniqlashtirish uchun meteorlar -->
+        <div class="meteor" style="top: 20%; left: 65%;"></div>
+        <div class="meteor" style="top: 40%; left: 80%;"></div>
+        <div class="meteor" style="top: 60%; left: 50%;"></div>
+        <div class="meteor" style="top: 75%; left: 30%;"></div>
+        <div class="meteor" style="top: 10%; left: 90%;"></div>
+        <!-- Markazdagi name text -->
         <h1>Samandar Nayimjonov</h1>
       </div>
     </div>
