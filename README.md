@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://t.me/Nayimjonovv" target="_blank">
-     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 20px;">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 20px;">
   </a>
   <a href="https://instagram.com/1samandar_old" target="_blank">
     <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 20px;" />
@@ -31,6 +31,7 @@
     <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
   </a>
 </p>
+
 
 
 
