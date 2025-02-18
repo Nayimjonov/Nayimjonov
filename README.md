@@ -70,7 +70,7 @@ Databases
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Samandar005" /> </p>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Samandar005" /> </p>
 
 
-[//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
