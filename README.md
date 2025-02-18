@@ -1,5 +1,5 @@
 <h1 align="center">
-  <iframe src="name.html" width="800" height="150" style="border: none;"></iframe>
+  <img src="name.svg"/>
 </h1>
 
 <p align="center">
