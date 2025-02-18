@@ -16,16 +16,16 @@
 
 <p align="center">
   <a href="https://t.me/Nayimjonovv">
-     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 15px;">
+     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 20px;">
   </a>
   <a href="https://instagram.com/1samandar_old">
-    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 15px;" />
+    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 20px;" />
   </a>
   <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL">
-    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="margin-right: 15px;"/>
+    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="margin-right: 20px;"/>
   </a>
   <a href="https://discord.com/channels/samandarnayimjonov">
-    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="margin-right: 15px;" />
+    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="margin-right: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/">
     <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
