@@ -11,29 +11,24 @@
 ## Assalamu Aleykum 👋 I'm a Python developer
 
 
-<a href="https://instagram.com/1samandar_old">
-  <img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
 
-<a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL">
-  <img align="left" alt="Facebook" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
-</a>
-
-<a href="https://discord.com/channels/samandarnayimjonov">
-  <img align="left" alt="Discord" width="25px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/">
-  <img align="left" alt="LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
-<br>
-
-
-## Telegram
-<a href="https://t.me/Nayimjonovv">
-<img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
-</a>
-</br>
+<p align="center">
+  <a href="https://t.me/Nayimjonovv">
+     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
+  </a>
+  <a href="https://instagram.com/1samandar_old">
+    <img alt="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL">
+    <img alt="Facebook" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
+  </a>
+  <a href="https://discord.com/channels/samandarnayimjonov">
+    <img alt="Discord" width="25px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/">
+    <img alt="LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  </a>
+</p>
 
 ## Technology stack
 
