@@ -6,13 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## Assalamu Aleykum 👋 I'm a Python developer
+<h1 align="center">Assalamu Aleykum 👋 I'm a Python developer</h1>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=Samandar005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Social Networks
 
-<p align="center">
+
   <a href="https://t.me/Nayimjonovv">
      <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
