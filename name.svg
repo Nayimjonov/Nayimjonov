@@ -41,6 +41,9 @@
           overflow: hidden;
           height: 130px;
           box-shadow: 0 0 50px rgba(0, 255, 255, 0.6);
+          display: flex;
+          justify-content: center;
+          align-items: center;
         }
 
         .black-hole {
@@ -91,6 +94,7 @@
           position: relative;
           z-index: 3;
           letter-spacing: 1px;
+          white-space: nowrap; /* Matnni bir qatorda saqlash uchun */
         }
 
         .cosmic-dust {
@@ -147,7 +151,7 @@
       <div class="cosmos-container">
         <div class="cosmic-dust"></div>
         <div class="constellation"></div>
-        <div class="black-hole"></div> <!-- Black hole with rotating glow -->
+        <div class="black-hole"></div>
         <div class="star">★</div>
         <div class="star">✦</div>
         <div class="star">✧</div>
