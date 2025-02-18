@@ -36,7 +36,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="386745.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="386745.jpg" width="500" height="320" style="border-radius: 15px;"/>
 
 **Back-End**
 
