@@ -11,9 +11,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Samandar005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Social Networks
+ 
+<h1 align="center">Social Networks</h1>
 
-
+<p align="center">
   <a href="https://t.me/Nayimjonovv">
      <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
