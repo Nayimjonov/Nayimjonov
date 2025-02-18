@@ -95,6 +95,8 @@
           z-index: 3;
           letter-spacing: 1px;
           white-space: nowrap; /* Matnni bir qatorda saqlash uchun */
+          overflow: hidden;
+          text-overflow: ellipsis; /* Uzun matn uchun punktirlangan chiziq */
         }
 
         .cosmic-dust {
@@ -121,21 +123,6 @@
           animation: cosmicFloat 10s ease-in-out infinite;
         }
 
-        .star:nth-child(1) { top: 10%; left: 10%; animation-delay: 0s; font-size: 1.5em; }
-        .star:nth-child(2) { top: 25%; left: 20%; animation-delay: 0.3s; font-size: 1.2em; }
-        .star:nth-child(3) { top: 35%; left: 30%; animation-delay: 0.6s; font-size: 1.4em; }
-        .star:nth-child(4) { top: 20%; left: 40%; animation-delay: 0.9s; font-size: 1.3em; }
-        .star:nth-child(5) { top: 30%; left: 50%; animation-delay: 1.2s; font-size: 1.5em; }
-        .star:nth-child(6) { top: 40%; left: 60%; animation-delay: 1.5s; font-size: 1.2em; }
-        .star:nth-child(7) { top: 25%; left: 70%; animation-delay: 1.8s; font-size: 1.4em; }
-        .star:nth-child(8) { top: 35%; left: 80%; animation-delay: 2.1s; font-size: 1.3em; }
-
-        .meteor:nth-child(1) { top: 10%; left: 10%; animation-delay: 0s; }
-        .meteor:nth-child(2) { top: 30%; left: 30%; animation-delay: 1s; }
-        .meteor:nth-child(3) { top: 50%; left: 50%; animation-delay: 1.5s; }
-        .meteor:nth-child(4) { top: 20%; left: 70%; animation-delay: 2s; }
-        .meteor:nth-child(5) { top: 40%; left: 90%; animation-delay: 2.5s; }
-
         @keyframes rotateGlow {
           0% {
             box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
@@ -147,6 +134,25 @@
             box-shadow: 0 0 30px 30px rgba(255, 255, 0, 0.9);
           }
         }
+
+        @media screen and (max-width: 1200px) {
+          h1 {
+            font-size: 3.5em;
+          }
+        }
+
+        @media screen and (max-width: 900px) {
+          h1 {
+            font-size: 3em;
+          }
+        }
+
+        @media screen and (max-width: 600px) {
+          h1 {
+            font-size: 2.5em;
+          }
+        }
+
       </style>
       <div class="cosmos-container">
         <div class="cosmic-dust"></div>
