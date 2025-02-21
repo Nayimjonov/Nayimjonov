@@ -69,7 +69,7 @@ Databases
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samandar005&show_icons=true&theme=transparent" width="50%" style="min-height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" style="min-height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&show_icons=true&theme=transparent" width="50%" style="min-height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" style="min-height: 200px;"/>
 </p>
 
