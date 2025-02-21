@@ -6,13 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
-
-
 ![](https://github-profile-trophy.vercel.app/?username=Samandar005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
 
  
 <h1 align="center">Social Networks</h1>
+
 
 <p align="center">
   <a href="https://t.me/Nayimjonovv" target="_blank">
