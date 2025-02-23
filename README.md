@@ -12,7 +12,7 @@
 <h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
 
  
-<h1 align="center">Social Networks</h1>
+<h2 align="center">🌐 Social Networks</h2>
 
 
 <p align="center">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-## Technology stack
+<h2 align="center">💻 Technology Stack</h2>
 
 <img align="right" alt="GIF" src="386745.jpg" width="500" height="320" style="border-radius: 15px;"/>
 
@@ -69,10 +69,13 @@ Databases
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&show_icons=true&theme=transparent" width="50%" style="min-height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" style="min-height: 200px;"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff&bg_color=0d1117" width="49%" style="min-height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&theme=tokyonight&hide_border=false&border_color=ffffff&bg_color=0d1117&layout=compact" width="44%" style="min-height: 200px;"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayimjonov&theme=tokyonight&hide_border=false&border_color=ffffff&background=0d1117" width="49%">
+</div>
