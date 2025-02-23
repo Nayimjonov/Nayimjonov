@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)**
 
 
 <h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
@@ -14,24 +14,24 @@
  
 <h2 align="center">🌐 Social Networks</h2>
 
-
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://t.me/Nayimjonovv" target="_blank">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 20px;">
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
   <a href="https://instagram.com/1samandar_old" target="_blank">
-    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 20px;" />
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
   </a>
   <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL" target="_blank">
-    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="margin-right: 20px;"/>
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">
   </a>
   <a href="https://discord.com/channels/samandarnayimjonov" target="_blank">
-    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="margin-right: 20px;" />
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg">
   </a>
   <a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/" target="_blank">
-    <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
   </a>
 </p>
+
 
 <h2 align="center">💻 Technology Stack</h2>
 
