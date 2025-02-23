@@ -14,12 +14,12 @@
  
 <h2 align="center">🌐 Social Networks</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://t.me/Nayimjonovv" target="_blank">
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
   <a href="https://instagram.com/1samandar_old" target="_blank">
-    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
   </a>
   <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL" target="_blank">
     <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
@@ -31,6 +31,7 @@
     <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
   </a>
 </p>
+
 
 
 <h2 align="center">💻 Technology Stack</h2>
