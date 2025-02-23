@@ -40,14 +40,7 @@
 
 **Back-End**
 
-<svg width="500" height="320" viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="clip">
-      <rect width="500" height="320" rx="15" ry="15"/>
-    </clipPath>
-  </defs>
-  <image x="0" y="0" xlink:href="image/code.gif" width="500" height="320" clip-path="url(#clip)"/>
-</svg>
+<img align="right" alt="GIF" src="image/code.gif" width="500" height="320" style="border-radius: 15px;"/>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
