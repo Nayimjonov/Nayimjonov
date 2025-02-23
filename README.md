@@ -32,7 +32,10 @@
   </a>
 </p>
 
-<h2 align="center">💻 Technology Stack</h2>
+<p align="center">
+  <img src="stack.svg"/>
+</p>
+
 
 <img align="right" alt="GIF" src="386745.jpg" width="500" height="320" style="border-radius: 15px;"/>
 
