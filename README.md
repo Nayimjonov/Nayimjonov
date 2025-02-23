@@ -14,21 +14,21 @@
  
 <h2 align="center">🌐 Social Networks</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+<p align="center">
   <a href="https://t.me/Nayimjonovv" target="_blank">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
   <a href="https://instagram.com/1samandar_old" target="_blank">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL" target="_blank">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
   </a>
   <a href="https://discord.com/channels/samandarnayimjonov" target="_blank">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg">
+    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/" target="_blank">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
   </a>
 </p>
 
