@@ -79,3 +79,7 @@ Databases
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayimjonov&theme=tokyonight&hide_border=false&border_color=ffffff&background=0d1117" width="49%">
 </div>
+
+
+[![Nayimjonov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayimjonov&bg_color=0d1117&color=0e75b6&line=0099ff&point=60e6ff&area=true&hide_border=false&border_color=cccccc)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
