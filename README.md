@@ -72,15 +72,15 @@
           <br>HTML
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="image/css.png" width="48" height="48" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="image/bootstrap.png" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="image/tailwind.png" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -94,8 +94,12 @@
         <br>PyCharm
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="image/vscode.png" width="48" height="48" alt="VsCode" />
         <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="image/linux.png" width="48" height="48" alt="VsCode" />
+        <br>Linux
     </td>
 </tr>
 </table>
