@@ -68,7 +68,10 @@ Databases
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<p align="center">
   <img src="stats.svg"/>
+</p>
+
 
 <p align="center">
     <a href="https://github.com/Nayimjonov?tab=repositories">
