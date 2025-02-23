@@ -66,6 +66,18 @@
         <img src="image/icons8-git-64.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="image/pycharm.png" width="48" height="48" alt="PyCharm" />
+        <br>PyCharm
+    </td>
+    <td align="center" width="96">
+        <img src="image/vscode.png" width="48" height="48" alt="VsCode" />
+        <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="image/linux.png" width="48" height="48" alt="Linux" />
+        <br>Linux
+    </td>
 </tr>
 <tr>
     <td align="center"  width="96">
@@ -102,18 +114,6 @@
     </td>
 </tr>
 <tr>
-    <td align="center" width="96">
-        <img src="image/pycharm.png" width="48" height="48" alt="PyCharm" />
-        <br>PyCharm
-    </td>
-    <td align="center" width="96">
-        <img src="image/vscode.png" width="48" height="48" alt="VsCode" />
-        <br>VsCode
-    </td>
-    <td align="center" width="96">
-        <img src="image/linux.png" width="48" height="48" alt="Linux" />
-        <br>Linux
-    </td>
     <td align="center" width="96">
         <img src="image/any.svg" width="48" height="48" alt="Pythonanywhere" />
         <br>Pythonanywhere
