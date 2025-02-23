@@ -8,18 +8,11 @@
 
 
 <div align="center">
-    <h1 align="center">Assalamu Aleykum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"/> I'm a Backend developer</h1>
+    <h1 align="center">Assalamu Aleykum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm a Backend developer</h1>
 </div>
 
 ---
 
-## 🛠 <span style="color:#3498db;">About Me</span>
-
-- 💻 <b>Python Developer</b> 
-- 🚀 Passionate about learning and gaining experience
-- 🔍 Interested in open-source projects and new technologies
-
----
 
 ## 🌍 <span style="color:#9b59b6;">Languages</span>
 
