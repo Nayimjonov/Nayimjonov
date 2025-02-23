@@ -11,7 +11,10 @@
 <h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
 
  
-<h2 align="center">🌐 Social Networks</h2>
+<p align="center">
+  <img src="networks.svg"/>
+</p>
+
 
 
 <p align="center">
