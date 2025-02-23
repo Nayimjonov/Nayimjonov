@@ -38,11 +38,9 @@
   <img src="title/stack.svg"/>
 </p>
 
+**Back-End**
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" style="border-radius: 15px;"/>
-
-
-**Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
