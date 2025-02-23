@@ -112,13 +112,12 @@
         <img src="image/postman.png" width="48" height="48" alt="Postman" />
         <br>Postman
     </td>
-</tr>
-<tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="image/any.svg" width="48" height="48" alt="Pythonanywhere" />
         <br>Pythonanywhere
     </td>
 </tr>
+
 </table>
 <br><br>
 
