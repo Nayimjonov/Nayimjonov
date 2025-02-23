@@ -74,30 +74,30 @@ Databases
 <p align="center">
 
 <!--
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/Nayimjonov?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Nayimjonov's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/Nayimjonov?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Nayimjonov's github-readme-stats"/></a>
+<a href="https://github.com/Nayimjonov?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Nayimjonov's github-readme-streak-stats"/></a>
 
 </p>
 
 
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="profile_online_compiler"/></a>
 
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@Nayimjonov">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayimjonov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href="https://wakatime.com/@Nayimjonov"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayimjonov&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Nayimjonov's wakatime stats"/></a>
+<a href="https://github.com/Nayimjonov?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Nayimjonov's trophy stats"/></a>
 </p>
 
 
@@ -108,5 +108,5 @@ Databases
 
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/Nayimjonov"><img src="https://profile-counter.glitch.me/{Nayimjonov}/count.svg" alt="Nayimjonov :: Visitor's Count" /></a>
 </p>
