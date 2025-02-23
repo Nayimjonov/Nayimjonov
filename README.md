@@ -72,14 +72,12 @@ Databases
 <h2 align="center">📊 GitHub Stats</h2><br>
 
 <p align="center">
-
-<a href="https://github.com/Nayimjonov?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Nayimjonov's github-readme-stats"/>
-</a>
-<a href="https://github.com/Nayimjonov?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
-</a>
-
+    <a href="https://github.com/Nayimjonov?tab=repositories">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Nayimjonov's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/Nayimjonov?tab=stars">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
+    </a>
 </p>
 
 <a href="https://rextester.com/l/kotlin_online_compiler">
@@ -93,18 +91,16 @@ Databases
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@Nayimjonov">
+    <a href="https://wakatime.com/@Nayimjonov">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayimjonov&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@Nayimjonov's wakatime stats"/>
 </a>
 
-
-<a href="https://github.com/Nayimjonov?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Nayimjonov's trophy stats"/>
-</a>
+    
+   <a href="https://github.com/Nayimjonov?tab=achievements">
+        <img src="https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3&row=2" width="38%" alt="@Nayimjonov's trophy stats"/>
+    </a>
 </p>
 
 <a href="https://rextester.com/l/python3_online_compiler">
     <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
 </a>
-
-
