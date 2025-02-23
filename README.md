@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="name.svg"/>
+  <img src="title/name.svg"/>
 </h1>
 
 <p align="center">
@@ -7,12 +7,11 @@
 </p>
 
 
-
 <h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
 
  
 <p align="center">
-  <img src="networks.svg"/>
+  <img src="title/networks.svg"/>
 </p>
 
 
@@ -36,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="stack.svg"/>
+  <img src="title/stack.svg"/>
 </p>
 
 
@@ -75,7 +74,7 @@ Databases
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="stats.svg"/>
+  <img src="title/stats.svg"/>
 </p>
 
 
