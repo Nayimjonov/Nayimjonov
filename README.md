@@ -87,6 +87,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="image/db.png" width="48" height="48" alt="PostgreSQL" />
+        <br>SQlite
+    </td>
 </tr>
 <tr>
     <td align="center" width="96">
