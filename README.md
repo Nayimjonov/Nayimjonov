@@ -84,12 +84,18 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        <br>VsCode
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="image/pycharm.png" width="48" height="48" alt="PostgreSQL" />
+        <br>PyCharm
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <br>VsCode
     </td>
 </tr>
 </table>
