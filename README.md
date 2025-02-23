@@ -52,7 +52,7 @@
     </td>
     <td align="center" width="96">
         <img src="image/django.png" alt="icon" width="65" height="65" />
-      <br>Django Rest
+      <br>DRF
     </td>
     <td align="center" width="96">
         <img src="image/django2.png" alt="icon" width="65" height="65" />
