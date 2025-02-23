@@ -1,0 +1,27 @@
+<svg width="100%" height="50" viewBox="0 0 250 50" xmlns="http://www.w3.org/2000/svg">
+
+
+    <!-- Animated Text -->
+    <text x="50%" y="35" font-size="30" font-family="Arial, sans-serif" fill="white" text-anchor="middle" alignment-baseline="middle"
+          style="text-shadow: 0 0 10px cyan, 0 0 20px blue;">
+        📊 GitHub Stats
+    </text>
+
+    <style>
+        @keyframes glow {
+            0% { fill: cyan; text-shadow: 0 0 5px cyan; }
+            50% { fill: white; text-shadow: 0 0 15px blue; }
+            100% { fill: cyan; text-shadow: 0 0 5px cyan; }
+        }
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-3px); }
+        }
+        text {
+            animation: glow 3s infinite alternate ease-in-out;
+        }
+        text:first-of-type {
+            animation: bounce 1.5s infinite alternate ease-in-out;
+        }
+    </style>
+</svg>
