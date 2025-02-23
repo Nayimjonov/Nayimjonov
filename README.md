@@ -14,25 +14,24 @@
  
 <h2 align="center">🌐 Social Networks</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<p align="center">
   <a href="https://t.me/Nayimjonovv" target="_blank">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="margin-right: 20px;">
   </a>
   <a href="https://instagram.com/1samandar_old" target="_blank">
-    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+    <img alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="margin-right: 20px;" />
   </a>
   <a href="https://www.facebook.com/people/Samandar-Nayimjonov/pfbid0LLBYn1cMufU4LvYX31EciGPyShyCXDri7KdQqkubxw8Q99Nrt2gZW8uokw5JPLbRl/?mibextid=ZbWKwL" target="_blank">
-    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
+    <img alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="margin-right: 20px;"/>
   </a>
   <a href="https://discord.com/channels/samandarnayimjonov" target="_blank">
-    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
+    <img alt="Discord" width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="margin-right: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/samandar-nayimjonov-594407329/" target="_blank">
-    <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
+    <img alt="LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
   </a>
 </p>
-
-
 
 <h2 align="center">💻 Technology Stack</h2>
 
@@ -72,16 +71,46 @@ Databases
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-[![Nayimjonov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayimjonov&bg_color=0d1117&color=0e75b6&line=0099ff&point=60e6ff&area=true&hide_border=false&border_color=cccccc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff&bg_color=0d1117" width="49%" style="min-height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&theme=tokyonight&hide_border=false&border_color=ffffff&bg_color=0d1117&layout=compact" width="44%" style="min-height: 200px;"/>
-</div>
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayimjonov&theme=tokyonight&hide_border=false&border_color=ffffff&background=0d1117" width="49%">
-</div>
+<!--
+<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Nayimjonov's github-readme-streak-stats"/></a>
+
+</p>
+
+
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayimjonov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+<p align="center">
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayimjonov&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Nayimjonov=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+</p>
+
+
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+
+
+
+
+
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Nayimjonov}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
 
 
 
