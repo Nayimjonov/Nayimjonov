@@ -11,6 +11,7 @@
                 <animate attributeName="cx" values="30;80;30" dur="3s" repeatCount="indefinite"/>
                 <animate attributeName="cy" values="20;10;20" dur="3s" repeatCount="indefinite"/>
             </circle>
+
             <circle cx="60" cy="35" r="1.8" fill="white">
                 <animate attributeName="cx" values="60;20;60" dur="1.5s" repeatCount="indefinite"/>
                 <animate attributeName="cy" values="35;25;35" dur="1.5s" repeatCount="indefinite"/>
