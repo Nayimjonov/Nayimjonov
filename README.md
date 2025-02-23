@@ -69,8 +69,7 @@ Databases
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+<h2 align="center">📊 GitHub Stats</h2><br>
 
 <p align="center">
 
