@@ -40,7 +40,11 @@
 
 **Back-End**
 
-<img align="right" alt="GIF" src="image/code.gif" width="500" height="320" style="border-radius: 15px;"/>
+<svg width="500" height="320">
+  <foreignObject width="100%" height="100%" style="border-radius: 15px; overflow: hidden;">
+    <img src="image/code.gif" width="500" height="320"/>
+  </foreignObject>
+</svg>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
