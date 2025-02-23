@@ -72,10 +72,10 @@ Databases
 
 <p align="center">
     <a href="https://github.com/Nayimjonov?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Nayimjonov's github-readme-stats"/>
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&icon_color=58a6ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Nayimjonov's github-readme-stats"/>
     </a>
     <a href="https://github.com/Nayimjonov?tab=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&hide_border=false&border_color=ffffff&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=ff8c00&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
     </a>
 </p>
 
