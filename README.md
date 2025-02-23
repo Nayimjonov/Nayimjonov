@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Samandar005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-**![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)**
 
 
 <h1 align="center">Assalamu Aleykum 👋 I'm a Backend developer</h1>
@@ -90,16 +89,8 @@ Databases
     </a>
 </p>
 
-<p align="center">
-    <a href="https://wakatime.com/@Nayimjonov">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayimjonov&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@Nayimjonov's wakatime stats"/>
-</a>
+**![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)**
 
-    
-   <a href="https://github.com/Nayimjonov?tab=achievements">
-        <img src="https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3&row=2" width="38%" alt="@Nayimjonov's trophy stats"/>
-    </a>
-</p>
 
 <a href="https://rextester.com/l/python3_online_compiler">
     <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
