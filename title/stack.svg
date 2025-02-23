@@ -1,13 +1,59 @@
-<svg width="230" height="35" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" font-size="60" font-family="Arial" fill="none" stroke="yellow" stroke-width="2" text-anchor="middle">
-    💻 Technology Stack
-    <animate attributeName="stroke-dasharray" values="5,5;10,10;5,5" dur="0.5s" repeatCount="indefinite"/>
-  </text>
-  <style>
-    @keyframes blink2 {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.5; }
-    }
-    text { animation: blink2 0.3s infinite alternate; }
-  </style>
+<svg width="300" height="40" viewBox="0 0 250 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Yulduzlar uchun pattern -->
+        <pattern id="stars" width="100" height="50" patternUnits="userSpaceOnUse">
+            <!-- Ko‘p yulduzlar -->
+            <circle cx="10" cy="10" r="1.5" fill="white">
+                <animate attributeName="cx" values="10;90;10" dur="2s" repeatCount="indefinite"/>
+                <animate attributeName="cy" values="10;40;10" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="30" cy="20" r="1.2" fill="white">
+                <animate attributeName="cx" values="30;80;30" dur="3s" repeatCount="indefinite"/>
+                <animate attributeName="cy" values="20;10;20" dur="3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="60" cy="35" r="1.8" fill="white">
+                <animate attributeName="cx" values="60;20;60" dur="1.5s" repeatCount="indefinite"/>
+                <animate attributeName="cy" values="35;25;35" dur="1.5s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="90" cy="10" r="1.3" fill="white">
+                <animate attributeName="cx" values="90;50;90" dur="2.5s" repeatCount="indefinite"/>
+                <animate attributeName="cy" values="10;30;10" dur="2.5s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="20" cy="40" r="1.6" fill="white">
+                <animate attributeName="cx" values="20;70;20" dur="2.8s" repeatCount="indefinite"/>
+                <animate attributeName="cy" values="40;15;40" dur="2.8s" repeatCount="indefinite"/>
+            </circle>
+        </pattern>
+
+        <!-- Glow effekti -->
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    <!-- Yorqin asosiy matn (ko'k rangda) -->
+    <text x="50%" y="35" font-size="30" font-family="Arial, sans-serif" text-anchor="middle" alignment-baseline="middle"
+          fill="blue" stroke="deepskyblue" stroke-width="1.5" filter="url(#glow)">
+            💻 Technology Stack
+    </text>
+
+    <!-- Matn ichidagi yulduzli naqsh -->
+    <text x="50%" y="35" font-size="30" font-family="Arial, sans-serif" text-anchor="middle" alignment-baseline="middle"
+          fill="url(#stars)" filter="url(#glow)">
+            💻 Technology Stack
+    </text>
+
+    <style>
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-4px); }
+        }
+        text {
+            animation: bounce 1s infinite alternate ease-in-out;
+        }
+    </style>
 </svg>
