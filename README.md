@@ -84,12 +84,16 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
+        <img src="image/db.png" width="48" height="48" alt="PostgreSQL" />
+        <br>SQlite
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="image/db.png" width="48" height="48" alt="PostgreSQL" />
-        <br>SQlite
+        <img src="image/postman.png" width="48" height="48" alt="PostgreSQL" />
+        <br>Postman
     </td>
 </tr>
 <tr>
@@ -104,6 +108,10 @@
     <td align="center" width="96">
         <img src="image/linux.png" width="48" height="48" alt="VsCode" />
         <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="image/any.svg" width="48" height="48" alt="Pythonanywhere" />
+        <br>Pythonanywhere
     </td>
 </tr>
 </table>
