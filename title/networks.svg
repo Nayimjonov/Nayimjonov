@@ -44,7 +44,7 @@
     <!-- Matn ichidagi yulduzli naqsh -->
     <text x="50%" y="35" font-size="30" font-family="Arial, sans-serif" text-anchor="middle" alignment-baseline="middle"
           fill="url(#stars)" filter="url(#glow)">
-            🌐 Social Networks
+             Social Networks
     </text>
 
     <style>
