@@ -52,7 +52,12 @@
     </td>
     <td align="center" width="96">
         <img src="image/django.png" alt="icon" width="65" height="65" />
+      <br>Django Rest
+    </td>
+    <td align="center" width="96">
+        <img src="image/django2.png" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
     <td align="center" width="96">
         <img src="image/icon.png" alt="icon" width="65" height="65" />
       <br>Github
@@ -84,7 +89,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="image/db.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="image/db.png" width="48" height="48" alt="SQlite" />
         <br>SQlite
     </td>
     <td align="center" width="96">
@@ -92,13 +97,13 @@
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="image/postman.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="image/postman.png" width="48" height="48" alt="Postman" />
         <br>Postman
     </td>
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="image/pycharm.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="image/pycharm.png" width="48" height="48" alt="PyCharm" />
         <br>PyCharm
     </td>
     <td align="center" width="96">
@@ -106,7 +111,7 @@
         <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="image/linux.png" width="48" height="48" alt="VsCode" />
+        <img src="image/linux.png" width="48" height="48" alt="Linux" />
         <br>Linux
     </td>
     <td align="center" width="96">
