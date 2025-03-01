@@ -164,7 +164,6 @@
 
 **![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)**
 
-
 <a href="https://rextester.com/l/python3_online_compiler">
     <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
 </a>
