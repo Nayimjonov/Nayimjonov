@@ -11,8 +11,6 @@
 </div>
 
 
-
-
 ## 🌍 <span style="color:#9b59b6;">Languages</span>
 
 - 🇺🇿 Uzbek
