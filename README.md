@@ -148,7 +148,6 @@
     </a>
 </p>
 
-
 <a href="https://rextester.com/l/kotlin_online_compiler">
     <img src="./assets/colored.png"  width="100%" alt="profile_online_compiler"/>
 </a>
