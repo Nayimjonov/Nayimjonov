@@ -3,10 +3,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/sakura-anime.gif" width="200" alt="Sakura Anime Girl">
-</div>
-
-<div align="center">
   <img src="https://moe-counter.glitch.me/get/@Nayimjonov?theme=sakura" alt="Visitor Count!" />
 </div>
 
