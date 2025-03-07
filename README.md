@@ -164,18 +164,3 @@
     <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
 </a>
 
-
-## <div align="center">💭 **Random Dev Quote** 💭</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
-
-<div align="center">
-  <img src="https://i.gifer.com/3BBF.gif" width="150" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
-
