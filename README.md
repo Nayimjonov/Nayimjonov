@@ -16,7 +16,10 @@
 - 🇺🇿 Uzbek
 - 🇷🇺 Russian
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
  
 <p align="center">
   <img src="title/networks.svg"/>
@@ -44,7 +47,10 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 
 <p align="center">
   <img src="title/stack.svg"/>
@@ -133,7 +139,10 @@
 </table>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 
 <p align="center">
   <img src="title/stats.svg"/>
@@ -148,9 +157,10 @@
     </a>
 </p>
 
-<a href="https://rextester.com/l/kotlin_online_compiler">
-    <img src="./assets/colored.svg"  width="100%" alt="profile_online_compiler"/>
-</a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 
 <p align="center">
     <a href="https://wakatime.com/@Nayimjonov">
@@ -160,6 +170,6 @@
 
 **![](https://github-profile-trophy.vercel.app/?username=Nayimjonov&theme=radical&no-frame=false&no-bg=false&margin-w=4)**
 
-<a href="https://rextester.com/l/python3_online_compiler">
-    <img src="./assets/colored.svg"  width="100%" alt="python3_online_compiler"/>
-</a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
