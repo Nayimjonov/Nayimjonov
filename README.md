@@ -141,10 +141,10 @@
 
 <p align="center">
     <a href="https://github.com/Nayimjonov?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nayimjonov&show_icons=true&count_private=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Nayimjonov's github-readme-stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Nayimjonov&show_icons=true&count_private=true&theme=react&hide_border=true" width="45.3%"/>
     </a>
     <a href="https://github.com/Nayimjonov?tab=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=ff8c00&hide_border=true&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&theme=react&hide_border=true" width="48%"/>
     </a>
 </p>
 
@@ -163,4 +163,3 @@
 <a href="https://rextester.com/l/python3_online_compiler">
     <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
 </a>
-
