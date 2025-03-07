@@ -3,8 +3,14 @@
 </h1>
 
 <div align="center">
-  <img src="https://moe-counter.glitch.me/get/@Nayimjonov?theme=rule34" alt="Visitor Count!" />
+  <img src="https://i.imgur.com/neon-anime.gif" width="200" alt="Neon Anime Girl">
 </div>
+
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@Nayimjonov?theme=neon" alt="Visitor Count!" />
+</div>
+
+
 
 <div align="center">
     <h1 align="center">Assalamu Aleykum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm a Backend developer</h1>
