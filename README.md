@@ -2,7 +2,6 @@
   <img src="title/name.svg"/>
 </h1>
 
-
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@Nayimjonov?theme=sakura" alt="Visitor Count!" />
 </div>
