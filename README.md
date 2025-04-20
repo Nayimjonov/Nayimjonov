@@ -174,3 +174,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<p align="center">
+  <img src="title/languages.svg"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nayimjonov">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&layout=compact&theme=tokyonight&hide_border=true" alt="Nayimjonov's Most Used Languages" />
+  </a>
+</p>
