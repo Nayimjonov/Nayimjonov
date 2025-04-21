@@ -175,11 +175,6 @@
 </div>
 
 
-
-<p align="center">
-  <img src="title/languages.svg"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/Nayimjonov">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayimjonov&layout=compact&theme=tokyonight&hide_border=true" alt="Nayimjonov's Most Used Languages" />
